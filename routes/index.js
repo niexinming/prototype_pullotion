@@ -48,7 +48,7 @@ function clone(a) {
 
 router.get('/',function (req,res,next) {
   console.log("index");
-  res.render('index', {title: 'HTML'});
+  //res.render('index', {title: 'HTML'});
 })
 
 /* GET home page. */
