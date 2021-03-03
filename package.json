@@ -14,7 +14,7 @@
     "mysql": "^2.17.1",
     "mysql-promise": "^5.0.0",
     "promise": "latest",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   },
   "devDependencies": {
     "ejs": "^3.0.1"
